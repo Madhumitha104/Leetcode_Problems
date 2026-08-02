@@ -1,0 +1,29 @@
+{
+  "version": "3.0.0",
+  "lastUpdated": "2026-08-02T16:55:38.275Z",
+  "platforms": {
+    "leetcode": {
+      "submissions": {
+        "partition-list": {
+          "questionId": "86",
+          "title": "Partition List",
+          "titleSlug": "partition-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785689738275,
+              "runtime": "0 ms",
+              "memory": "43.7 MB",
+              "githubPath": "LeetCode/Linked List/Partition List/"
+            }
+          }
+        }
+      },
+      "username": "KtjNGYzvdK"
+    }
+  }
+}
